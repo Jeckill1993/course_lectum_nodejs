@@ -1,0 +1,29 @@
+{
+  "name": "course_lectum_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeckill1993/course_lectum_nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeckill1993/course_lectum_nodejs/issues"
+  },
+  "homepage": "https://github.com/Jeckill1993/course_lectum_nodejs#readme",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^15.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.2",
+    "@babel/eslint-parser": "^7.19.1",
+    "@babel/eslint-plugin": "^7.19.1",
+    "@babel/preset-env": "^7.20.2",
+    "eslint": "^8.28.0"
+  }
+}
